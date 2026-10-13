@@ -1,3 +1,6 @@
+// Linear search subroutine over an integer array.
+// Historical debugger exercise; see VALIDATION.md for the unresolved exit label.
+
 .global _start
 _start:
 	

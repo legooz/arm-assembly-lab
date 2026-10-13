@@ -40,8 +40,8 @@
     "course": "CSCE A248, Fall 2023",
     "source": "Original Homework 3 submission; course corrected from old archive folder",
     "original_sha256": "84579638a5c71fab447420f06a4f7a0ae881fc1e9b0970567f00d274058ccfa8",
-    "published_sha256": "03b50ba3ef155c745e0556232b6a7de36104b91c857f34013ff15a71df0f007b",
-    "changes": "UTF-8/LF normalization; student-ID header redaction if present. Algorithm/RTL preserved.",
+    "published_sha256": "f203b408d71a8817bb52d7bd42a2db25bd49d10deb707936f63823afc3e033e2",
+    "changes": "UTF-8/LF normalization; student-ID header redaction if present. Algorithm/RTL preserved. Source header now describes the project; non-comment code unchanged.",
     "attribution": "Recovered student exercise; course starter/template contributions may be present."
   },
   {
