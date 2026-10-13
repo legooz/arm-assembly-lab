@@ -1,8 +1,4 @@
-/* 
-Lars Goozen
-Homework 2
-Problem 1
-*/
+/* Array sum with parity check (historical draft). Attribution: see NOTICE.md. */
 
 
 .global _start

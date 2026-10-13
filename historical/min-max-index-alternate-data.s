@@ -1,8 +1,4 @@
-/*
-Lars Goozen
-Homework 2
-Problem 3
-*/
+/* Minimum/maximum indices with alternate array data. Attribution: see NOTICE.md. */
 
 //min value in r0, min value index in r1
 

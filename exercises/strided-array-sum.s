@@ -1,8 +1,4 @@
-/* 
-Lars Goozen
-Homework 2
-Problem 1
-*/
+/* Strided array sum. Attribution: see NOTICE.md. */
 
 
 .global _start

@@ -1,8 +1,4 @@
-/*
-Lars Goozen
-Homework 2
-Problem 2
-*/
+/* Even and odd element count. Attribution: see NOTICE.md. */
 
 
 .global _start

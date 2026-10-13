@@ -4,8 +4,8 @@
     "course": "CSCE A248, Fall 2023",
     "source": "Archived assembly exercise: homework1-problem1.s",
     "original_sha256": "43a21173330ef7cc8540481c3f6f5173003c27451a8b8ab06950ac826456bd2b",
-    "published_sha256": "a30c34e752891d68a59f31647a394f8aaf95a5117946e5badff361ff45e38a97",
-    "changes": "UTF-8/LF normalization; student-ID header redaction if present. Algorithm/RTL preserved.",
+    "published_sha256": "3d41f55f0fc5abd2c3adad39c5debdb3c9416c336ed4d29243ef2910896a990d",
+    "changes": "UTF-8/LF normalization; student-ID header redaction if present. Algorithm/RTL preserved. Descriptive project/file naming and consolidated author headers; executable logic preserved.",
     "attribution": "Recovered student exercise; course starter/template contributions may be present."
   },
   {
@@ -13,8 +13,8 @@
     "course": "CSCE A248, Fall 2023",
     "source": "Archived assembly exercise: homework2-problem1.s",
     "original_sha256": "4750b5e5a18dc09fdceeaf990cd849f7ebb8142b1743131dcc32e0a779e4e051",
-    "published_sha256": "3d9b2286c42fd646832c2a736cc6705f4308b04986eaa45ff334452fc1287a30",
-    "changes": "UTF-8/LF normalization; student-ID header redaction if present. Algorithm/RTL preserved.",
+    "published_sha256": "e7fa1c8288da92cd1ada83c25c265af710fd25842f176699a4f6a699cf7dc091",
+    "changes": "UTF-8/LF normalization; student-ID header redaction if present. Algorithm/RTL preserved. Descriptive project/file naming and consolidated author headers; executable logic preserved.",
     "attribution": "Recovered student exercise; course starter/template contributions may be present."
   },
   {
@@ -22,8 +22,8 @@
     "course": "CSCE A248, Fall 2023",
     "source": "Archived assembly exercise: homework2-problem2.s",
     "original_sha256": "8065186f401cbed6070d6361c436b452013d5ea0f704934405ff148b0769e52a",
-    "published_sha256": "69c0bb43baf50ba850fa57a4a06e7e13127b0d1c2f5fbe242d351d4b5ffbe1fa",
-    "changes": "UTF-8/LF normalization; student-ID header redaction if present. Algorithm/RTL preserved.",
+    "published_sha256": "c621e91ade51c245298ac62ab7c318db17d0e95313f29272359f0fae9c75fa56",
+    "changes": "UTF-8/LF normalization; student-ID header redaction if present. Algorithm/RTL preserved. Descriptive project/file naming and consolidated author headers; executable logic preserved.",
     "attribution": "Recovered student exercise; course starter/template contributions may be present."
   },
   {
@@ -31,8 +31,8 @@
     "course": "CSCE A248, Fall 2023",
     "source": "Archived assembly exercise: homework2-problem3.s",
     "original_sha256": "d58013c8f0b7986ae2d0e58f19662adf8a149c329423192be1662440ddd9eaee",
-    "published_sha256": "dd276a861e4738c1ec8c084b51f9f807df4bd7dac1bd83ec36e9e19855121ce4",
-    "changes": "UTF-8/LF normalization; student-ID header redaction if present. Algorithm/RTL preserved.",
+    "published_sha256": "8b6fbec51f666e27ec8aab99f2c3d7051cf2e64aa0180454b6d93c19b573b1f3",
+    "changes": "UTF-8/LF normalization; student-ID header redaction if present. Algorithm/RTL preserved. Descriptive project/file naming and consolidated author headers; executable logic preserved.",
     "attribution": "Recovered student exercise; course starter/template contributions may be present."
   },
   {
@@ -45,21 +45,21 @@
     "attribution": "Recovered student exercise; course starter/template contributions may be present."
   },
   {
-    "path": "historical/goozenhomework1problem1.s",
+    "path": "historical/strided-array-sum-variant.s",
     "course": "CSCE A248, Fall 2023",
     "source": "Recovered local assembly variant",
     "original_sha256": "9f5aa78e243730c06dc73ebe001e52f3dcbbe3b393a835a3a1e086491eb7e484",
-    "published_sha256": "ff6f4cdfbeac07e4603469894ebd7072cab68b0a1ee829c61de4eb64b8694e20",
-    "changes": "UTF-8/LF normalization; student-ID header redaction if present. Algorithm/RTL preserved.",
+    "published_sha256": "7d114661dd2c832c962404f2725e7ad00c39dfb9b82f575f1945c15b960bbf5b",
+    "changes": "UTF-8/LF normalization; student-ID header redaction if present. Algorithm/RTL preserved. Descriptive project/file naming and consolidated author headers; executable logic preserved.",
     "attribution": "Recovered student exercise; course starter/template contributions may be present."
   },
   {
-    "path": "historical/homework2poblem3.s",
+    "path": "historical/min-max-index-alternate-data.s",
     "course": "CSCE A248, Fall 2023",
     "source": "Recovered local assembly variant",
     "original_sha256": "658689132e8374a20a7b3335f178f05424bbbae54b70e27eb95e505c9db12c07",
-    "published_sha256": "c84bd407022e5ffb7b861e630153469a0e3a0a8834d7b114e6594f746e024485",
-    "changes": "UTF-8/LF normalization; student-ID header redaction if present. Algorithm/RTL preserved.",
+    "published_sha256": "0f81310c9a6560100216a51885115ae2f4f5b1d0abb8c903ec930158761ec930",
+    "changes": "UTF-8/LF normalization; student-ID header redaction if present. Algorithm/RTL preserved. Descriptive project/file naming and consolidated author headers; executable logic preserved.",
     "attribution": "Recovered student exercise; course starter/template contributions may be present."
   }
 ]

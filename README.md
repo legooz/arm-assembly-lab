@@ -1,6 +1,6 @@
 # ARM assembly laboratory
 
-Historical ARM assembly exercises by Lars Goozen from CSCE A248, Computer Organization and Assembly Language Programming, University of Alaska Anchorage (Fall 2023).
+Historical ARM assembly exercises from CSCE A248, Computer Organization and Assembly Language Programming, University of Alaska Anchorage (Fall 2023).
 
 This collection covers array traversal, conditional execution, searching, register use and subroutine structure. It preserves the recovered source behavior and makes known limitations explicit.
 
